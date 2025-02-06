@@ -1,5 +1,5 @@
 # GrayHawk
-Tools for computing GrayBody Factors of Spherically Simmetric BHs for different field spin.
+Tools for computing GrayBody Factors of Spherically Symmetric BHs for different field spin.
 
 Author: Marco Calzà
 
