@@ -3,4 +3,4 @@ Tools for computing GrayBody Factors of Spherically Symmetric BHs for different 
 
 Author: Marco Calzà
 
-If using this code, please cite the related paper reported in the repository named GrayHawk.pdf and titled: "GrayHawk: A public code for calculating the Gray Body Factors of massless fields around spherically symmetric Black Holes".
+If using this code, please cite 2502.04041: https://inspirehep.net/literature/2877106
